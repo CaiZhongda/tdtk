@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5ab6beed5c873414caa4661d17e79798
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - basicDetonator: {instanceID: 0}
+  - asteroidMaterial: {fileID: 2100000, guid: a4513cfd6ecf9a54e84176567020f713, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
