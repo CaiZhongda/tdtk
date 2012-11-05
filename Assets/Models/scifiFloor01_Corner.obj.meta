@@ -4,6 +4,7 @@ ModelImporter:
   fileIDToRecycleName:
     4300000: Plane014
     4300002: scifiFloor01_Corner
+    4300004: scifiFloor002
   serializedVersion: 10
   materials:
     importMaterials: 1
@@ -48,7 +49,7 @@ ModelImporter:
       data:
         first: 111
         second: 605fa900
-    scifiFloor01_Corner:
+    scifiFloor002:
       data:
         first: 1
         second: a2860100

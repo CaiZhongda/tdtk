@@ -5,6 +5,7 @@ ModelImporter:
     4300000: Plane001
     4300002: Plane006
     4300004: Plane014
+    4300006: scifiFloor01
   serializedVersion: 10
   materials:
     importMaterials: 1
@@ -49,7 +50,7 @@ ModelImporter:
       data:
         first: 111
         second: 605fa900
-    Plane014:
+    scifiFloor01:
       data:
         first: 1
         second: a2860100

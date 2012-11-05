@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: b2e37c351ad9dba48bec5d1d160b1de1
+guid: 61bec7695d567074992fefe0a16347e5
 ModelImporter:
   fileIDToRecycleName:
-    4300000: Plane013
-    4300002: scifiWall02_45in
-    4300004: scifiWall003
+    4300000: scifiWall005
   serializedVersion: 10
   materials:
     importMaterials: 1
@@ -49,7 +47,7 @@ ModelImporter:
       data:
         first: 111
         second: 605fa900
-    scifiWall003:
+    scifiWall005:
       data:
         first: 1
         second: a2860100
