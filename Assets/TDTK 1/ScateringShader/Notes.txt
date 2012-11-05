@@ -1,9 +1,0 @@
-Notes:
-
-Please, Dont Forget to first IMPORT ImageEffects PRO, 
-so, after, then you can import this packages, to avoid failure.
-
-Tested in Unity 3.5.6f4 Windows
-
-Many thanks! Love You all!
-
