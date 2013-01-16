@@ -1,0 +1,644 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Anti_Aircraft_diff.tga
+map_bump Anti_Aircraft_H.tga
+bump Anti_Aircraft_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Heavy_antiaircraft_diff.TGA
+map_bump Heavy_antiaircraft_H.tga
+bump Heavy_antiaircraft_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Heavy_antiaircraft_diff.TGA
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Heavy_antiaircraft_diff.TGA
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Anti_Aircraft_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Aircraft
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Anti_Aircraft_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Vehicle
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd anti_vehicle_diff.tga
+map_bump anti_vehicle_H.tga
+bump anti_vehicle_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Vehicle
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd anti_vehicle_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Anti_Vehicle
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd anti_vehicle_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Artillery
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd artillery_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Artillery
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd artillery_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Artillery
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd artillery_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Flamethrower
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd flametrhower_diff.tga
+map_bump flametrhower_H.tga
+bump flametrhower_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Flamethrower
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd flametrhower_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Flamethrower
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd flametrhower_diff.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Grenade_Launcer
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd grenade_Launcer_diff.TGA
+map_bump grenade_Launcer_H.tga
+bump grenade_Launcer_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Grenade_Launcer
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd grenade_Launcer_diff.TGA
+map_bump grenade_Launcer_H.tga
+bump grenade_Launcer_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Grenade_Launcer
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd grenade_Launcer_diff.TGA
+map_bump grenade_Launcer_H.tga
+bump grenade_Launcer_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Plasma_Canon
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Plasma_canon_diff.tga
+map_bump Plasma_canon_H.tga
+bump Plasma_canon_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Plasma_Canon
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Plasma_canon_diff.tga
+map_bump Plasma_canon_H.tga
+bump Plasma_canon_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Plasma_Canon
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Plasma_canon_diff.tga
+map_bump Plasma_canon_H.tga
+bump Plasma_canon_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Heavy_sulfateuse_diff.tga
+map_bump Heavy_sulfateuse_H.tga
+bump Heavy_sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Heavy_sulfateuse_diff.tga
+map_bump Heavy_sulfateuse_H.tga
+bump Heavy_sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Heavy_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Heavy_sulfateuse_diff.tga
+map_bump Heavy_sulfateuse_H.tga
+bump Heavy_sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Sulfateuse_diff.tga
+map_bump Sulfateuse_H.tga
+bump Sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Sulfateuse_diff.tga
+map_bump Sulfateuse_H.tga
+bump Sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Sulfateuse
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Sulfateuse_diff.tga
+map_bump Sulfateuse_H.tga
+bump Sulfateuse_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Launcher_Rocket
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Launcher_rocket_diff.TGA
+map_bump Launcher_rocket_H.tga
+bump Launcher_rocket_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Launcher_Rocket
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Launcher_rocket_diff.TGA
+map_bump Launcher_rocket_H.tga
+bump Launcher_rocket_H.tga
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Texture_Launcher_Rocket
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd Launcher_rocket_diff.TGA
+map_bump Launcher_rocket_H.tga
+bump Launcher_rocket_H.tga
+
+newmtl Texture_Spying_Turret
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd spying_diff.TGA
+map_bump spying_H.tga
+bump spying_H.tga
+
+newmtl Texture_Spying_Turret
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd spying_diff.TGA
+map_bump spying_H.tga
+bump spying_H.tga
+
+newmtl Texture_Spying_Turret
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd spying_diff.TGA
+map_bump spying_H.tga
+bump spying_H.tga
+
