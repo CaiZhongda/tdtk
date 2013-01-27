@@ -1,0 +1,1 @@
+Default documentation, this file (and the contents of the "BundleWithGame" folder) will be bundled with all your WIN and MAC builds.

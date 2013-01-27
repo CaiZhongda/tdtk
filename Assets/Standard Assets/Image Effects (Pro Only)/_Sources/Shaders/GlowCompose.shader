@@ -1,4 +1,4 @@
-Shader "Hidden/GlowCompose" {
+Shader "Hidden/glareCompose" {
 
 Properties {
 	_Color ("Glow Amount", Color) = (1,1,1,1)

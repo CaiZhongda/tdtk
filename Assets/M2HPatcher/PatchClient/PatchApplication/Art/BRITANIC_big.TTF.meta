@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 99ec73f3c9924004eb74a505d85ecf44
+labels:
+- patch
+- M2H
+- Leepo
+- Hergaarden
+- Mike
+- Update
+- Patcher
+- Client
+- Updates
+- diff
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 22
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  forceTextureCase: -2
+  renderMode: 0
+  style: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - 
+  customCharacters: 
